@@ -2,8 +2,10 @@ style.name:             Debian v.1
 style.author:           Dmitry E. Oboukhov <unera@debian.org>
 style.date:             Wed Sep 3 18:27:11 UTC 2008
 
-"background: 		fullscreen
-"background.pixmap:      /usr/share/images/desktop-base/debian-blueish-wallpaper-640x480.png
+! The original Debian background pixmap is not shipped in this repository.
+! Use a solid fallback so the style remains portable.
+background:             flat
+background.color:       #60747d
 
 window.font:			-*-terminus-medium-r-*-*-16-*-*-*-*-*-iso10646-1
 menu.frame.font:		-*-terminus-medium-r-*-*-16-*-*-*-*-*-iso10646-1

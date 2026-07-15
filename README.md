@@ -38,7 +38,7 @@ Fluxbox supports both layouts used here:
 
 ## Installation
 
-Copy the repository styles into your Fluxbox configuration:
+Clone or download this repository. Then copy the styles folder into your Fluxbox configuration:
 
 ```bash
 mkdir -p ~/.fluxbox/styles

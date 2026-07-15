@@ -1,5 +1,7 @@
 # Fluxbox styles and themes from MX Linux / antiX 23
 
+Spanish documentation is available here: [README_ES.md](README_ES.md).
+
 This repository is a curated collection of Fluxbox styles gathered from MX Linux and antiX 23, prepared so they can be installed directly into a user's Fluxbox styles directory.
 
 The goal is to keep the themes usable, portable, and easy for other developers to inspect or adapt.
